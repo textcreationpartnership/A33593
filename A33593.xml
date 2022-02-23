@@ -1,0 +1,261 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capt. Vrats's ghost to Count Coningsmark by a Western gentleman.</title>
+            <author>Western gentleman.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33593</idno>
+            <idno type="STC">Wing C487</idno>
+            <idno type="STC">ESTC R7529</idno>
+            <idno type="EEBO-CITATION">13239123</idno>
+            <idno type="OCLC">ocm 13239123</idno>
+            <idno type="VID">98610</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33593)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98610)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 448:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Capt. Vrats's ghost to Count Coningsmark by a Western gentleman.</title>
+                  <author>Western gentleman.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. V. ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Königsmarck, Carl Johan von, 1659-1686.</term>
+               <term>Thynne, Thomas, 1648-1682.</term>
+               <term>Vratz, Christopher, d. 1682.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:98610:1"/>
+            <pb n="1" facs="tcp:98610:1" rendition="simple:additions"/>
+            <head>Capt. Vrats's Ghoſt TO <hi>Count Coningſmark,</hi>
+            </head>
+            <byline>BY A WESTERN GENTLEMAN.</byline>
+            <lg>
+               <l>WHat's this diſturbs my Quiet, and my Sleep,</l>
+               <l>And doth ſuch Ruſtling of the Curtains keep?</l>
+               <lg>
+                  <l>Ah <hi>Captain!</hi> What? my dear <hi>Vrats</hi>'s Ghoſt,</l>
+                  <l>Who for my ſake, Life, Fame, and Credit Loſt;</l>
+                  <l>And yet, none could of his Diſcovery boaſt?</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Curſt Man! Behold the Wretch, who for thy Cauſe,</l>
+               <l>Againſt Religion, Juſtice, and the Laws,</l>
+               <l>In Treach'rous Counſels did himſelf Ingage,</l>
+               <l>And baſely Murder'd, where he knew no Rage.</l>
+               <l>What? Though Men brib'd may be, do'ſt fondly Hope</l>
+               <l>Vengeance to ſcape? No more than I the Rope.</l>
+               <lg>
+                  <l>From <hi>Stygian</hi> Lake I come, thy Doom to Tell;</l>
+                  <l>What Furies in thy Breaſt ſhall ever dwell;</l>
+                  <l>What Tortures in thy Mind, what raging Hell</l>
+               </lg>
+               <l>Of Torment, and Deſpair, both Day and Night</l>
+               <l>Thou ſtill ſhal't bear about. No Joy, Delight,</l>
+               <l>Nor Peace expect; in Court, in Camp, in Field,</l>
+               <l>Alone, in Company; think nought ſhall ſhield</l>
+               <l>Thee from the conſtant haunt of each Man's Ghoſt,</l>
+               <l>Who by thy Means, or for Thee, Life has loſt.</l>
+               <l>Not One, or Two bold Actions in the Wars,</l>
+               <l>Nor Souldiers Wounds, nor yet Ten Thouſand Scars</l>
+               <l>Shall e're wipe off this Blot, this Infamy,</l>
+               <l>Which thus thy Scarlet, with a deeper Dye</l>
+               <l>Hath ſtain'd; the War-like Trophees of thy Fame,</l>
+               <l>Thy Stock, thy much before Reputed Name.</l>
+               <l>Who was't thus baſely brought unto his End</l>
+               <l>The <hi>Loyal Monmouth</hi>'s <hi>Wealthy Weſtern Friend?</hi>
+               </l>
+               <l>When Men ſhall ask; His Blood ſhall upwards Mount,</l>
+               <l>And cry, the Treach'rous Wiles of <hi>Northern Count.</hi>
+               </l>
+               <l>As through the <hi>Abbey</hi> wondring ſtrangers paſs,</l>
+               <l>To view the Fabrick, Tombs, and painted Glaſs;</l>
+               <lg>
+                  <l>When the <hi>Great Thynn</hi>'s Rich <hi>Monumental Shrine</hi>
+                  </l>
+                  <l>(Which, like the Moon, 'mong leſſer Stars doth Shine,)</l>
+                  <l>Containing Sacred Relicks, Duſt Divine;</l>
+               </lg>
+               <l>They ſee, and by the Epitaph certifie'd,</l>
+               <l>How that by Murder he untimely dye'd:</l>
+               <l>Deſire to know, who was the Cauſe; the Clarke</l>
+               <l>With Truth ſhall ſoon reply, Count <hi>Coningſmark.</hi>
+               </l>
+               <l>How hated wilt thou be, abhor'd thy Name,</l>
+               <l>When in the everlaſting Leaves of Fame</l>
+               <l>Poſterity ſhall read, and after-Ages,</l>
+               <l>Inſtructed from the Pens of Learned Sages,</l>
+               <pb facs="tcp:98610:2"/>
+               <pb n="2" facs="tcp:98610:2"/>
+               <l> Shall underſtand, this <hi>Rich, Young, Engliſh Spark</hi>
+               </l>
+               <l>Dy'd by the Trains of a Falſe <hi>Coningſmark?</hi>
+               </l>
+               <l>Baſe<g ref="char:punc">▪</g> Wretch! What, though <hi>Great Thynn</hi>'s much greater Soul</l>
+               <l>Be Mounted far above the Starry Pole,</l>
+               <l>And his dead Corps ſecur'd lies under Ground?</l>
+               <l>Think not to ſcape the Furies thee ſurround,</l>
+               <l>The Cry, the Crime, the Stain, the Blot, the Guilt</l>
+               <l>Of his warm Blood for thee moſt baſely ſpilt.</l>
+               <l>When thou <hi>Vrats</hi>'s Balmed Corps ſhalt ſee,</l>
+               <l>Think how he ſuffer'd, and how dy'd for Thee:</l>
+               <l>But alſo think, 'twas thy baſe Treach'rous Deed,</l>
+               <l>That caus'd his D<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th, as <hi>Thynn</hi> before to Bleed.</l>
+               <l>If I a Souldier liv<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, and Dog-like dy'd,</l>
+               <l>Know, that it was to ſofter up thy Pride.</l>
+               <l>Had not Revenge, or rather cruel Rage,</l>
+               <l>For a <hi>defeated Match,</hi> made thee Ingage</l>
+               <l>In a Deſign, to take thy <hi>Rival's</hi> Life,</l>
+               <l>By cow'rdly means, in hopes of his <hi>Rich Wife;</hi>
+               </l>
+               <l>In Life, in Death a Valiant Souldiers Fame</l>
+               <l>I might have had; but now a Murth'rer's Name.</l>
+               <l>My Fury therefore now expect to feel,</l>
+               <l>And deeper Wounds, than made by ſharpeſt Steel.</l>
+               <l>
+                  <hi>Vrats</hi>'s Ghoſt ſhall dog thee up and down,</l>
+               <l>And haunt thee from this City to that Town.</l>
+               <l>Hope not thy <hi>Captain</hi> will be brib'd agen;</l>
+               <l>His Ghoſt now Thee muſt vex, not other Men.</l>
+               <l>'Tis now Reſolv'd. Revenge to take, he aims,</l>
+               <l>For <hi>Thynn</hi>'s Blood, Venge'nce, and his own, he claims.</l>
+               <l>Rouze up thy ſelf. Do'ſt not thou yonder ſee,</l>
+               <l>How <hi>Sterne</hi>'s Pale Ghoſt, inraged, looks on Thee?</l>
+               <l>Muſt his Blood unreveng'd be, who, deceiv'd</l>
+               <l>By me, for thee a Murd'rers Doom receiv'd?</l>
+               <l>Poor Ignorant <hi>Borisky's</hi> angry Ghoſt,</l>
+               <l>See with what Rage it comes thee to accoſt?</l>
+               <lg>
+                  <l>Muſt He that Fatal Shot for ever rue,</l>
+                  <l>His Corps in Chains be hung to all Men's view</l>
+                  <l>And <hi>Spect'cle</hi> made to <hi>Forreigners</hi> for you?</l>
+               </lg>
+               <l>Haſt, haſt, ye angry Ghoſts; come on apace,</l>
+               <l>Let's take our full R<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>enge now in this place:</l>
+               <l>Our <hi>Deaths,</hi> as well as <hi>Thynn</hi>'s, for Venge'nce cry:</l>
+               <l>Wee'l not bear all the crime, nor Infamy;</l>
+               <l>He was the Cauſe, and therefore 'tis but due,</l>
+               <l>He bear a part, a ſhare, with <hi>Me</hi> and <hi>You.</hi>
+               </l>
+               <l>What, though Diſcharg'd from <hi>England</hi> he be Fled?</l>
+               <l>His Guilt is ne'r the leſs for the Blood ſhed.</l>
+               <l>We might, (had not he prompted) to this Time</l>
+               <l>Have liv'd; Let's puniſh then in Him the Crime.</l>
+               <l>Haſt then ye Furies, all your Tortures bring,</l>
+               <l>Your Snakes, your Racks, each Scorpi'n's laſting Sting.</l>
+               <l>
+                  <hi>"Come on</hi> Alecto, <hi>with thy Flaming Whip,</hi>
+               </l>
+               <l>And firk the <hi>Counts</hi> young Hide: Thus make him Skip.</l>
+            </lg>
+            <lg>
+               <l>So cried the Ghoſt. The <hi>Count</hi> lifts up his Head,</l>
+               <l>Amaz'd, with Fury leaps out of his Bed,</l>
+               <l>And calls for Light: 'Twas brought: The Ghoſt ſtrait Fled.</l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON, Printed for</hi> J. V. <hi>in</hi> Fleet-Street, 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
